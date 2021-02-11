@@ -1,0 +1,25 @@
+#+STARTUP: nofold
+#+HTML: <div align="center">
+#+HTML: <img src="https://webusstatic.yo-star.com/ark_us_web/mobile/img/logo02.f3d93f7d.png" width="96" height="96"/>
+
+* Arknights-Google
+An Arknights userstyle for [[https://google.com][Google]]!
+
+#+HTML: <img src="https://raw.githubusercontent.com/sonicjhon1/arknights-google/master/images/preview.jpg" width="100%"/>
+
+#+HTML: </div>
+
+** Installation
+You have to install [[https://add0n.com/stylus.html][Stylus]] and then click on the install link below.
+
+- Without embedded B64 images (Theme may load slower depending on your internet connection)
+
+  [[https://raw.githubusercontent.com/sonicjhon1/arknights-google/master/google.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
+
+** Support Me
+You can subscribe to [[https://www.youtube.com/channel/UCyaSbQWYe3FRRRUIB9VNfew][My Youtube channel]] if you liked this theme / userstyle.
+
+** Credits
+This project wouldn't be possible without:
+- [[http://userstyles.org/styles/169533][谷歌美化-少女前线G36 (王比利)]] for making the initial script.
+- [[https://www.pixiv.net/users/12342223][Lococo:p]] for the gorgeous [[https://www.pixiv.net/artworks/79939674][background image]]
