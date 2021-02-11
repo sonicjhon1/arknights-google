@@ -5,7 +5,7 @@
 * Arknights-Google
 An Arknights userstyle for [[https://google.com][Google]]!
 
-#+HTML: <img src="https://raw.githubusercontent.com/sonicjhon1/arknights-google/master/images/preview.jpg" width="100%"/>
+#+HTML: <img src="https://raw.githubusercontent.com/sonicjhon1/arknights-google/main/images/preview.jpg" width="100%"/>
 
 #+HTML: </div>
 
@@ -14,7 +14,7 @@ You have to install [[https://add0n.com/stylus.html][Stylus]] and then click on 
 
 - Without embedded B64 images (Theme may load slower depending on your internet connection)
 
-  [[https://raw.githubusercontent.com/sonicjhon1/arknights-google/master/google.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
+  [[https://raw.githubusercontent.com/sonicjhon1/arknights-google/main/google.user.styl][https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg]]
 
 ** Support Me
 You can subscribe to [[https://www.youtube.com/channel/UCyaSbQWYe3FRRRUIB9VNfew][My Youtube channel]] if you liked this theme / userstyle.
